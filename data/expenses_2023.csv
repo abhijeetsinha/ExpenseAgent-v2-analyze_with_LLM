@@ -1,0 +1,101 @@
+id,date,merchant,category,amount,notes
+1,2023-11-24,UNICEF,Gifts & Donations,458.48,charitable donation
+2,2023-08-06,Kaiser,Health,728.42,vitamins
+3,2023-12-20,CVS,Health,120.42,pharmacy
+4,2023-05-09,Airbnb,Travel,183.54,hotel stay
+5,2023-08-22,Red Cross,Gifts & Donations,200.44,birthday gift
+6,2023-06-04,Bartell Drugs,Health,341.11,co-pay
+7,2023-04-12,GoFundMe,Gifts & Donations,418.51,holiday gift
+8,2023-07-16,Trader Joe's,Groceries,29.16,snacks and beverages
+9,2023-09-05,Amtrak,Transport,114.46,office to home
+10,2023-02-24,McDonald's,Food & Drink,34.95,takeout
+11,2023-05-02,Costco,Groceries,97.25,weekly groceries
+12,2023-07-15,Allstate,Insurance,54.75,monthly premium
+13,2023-10-20,Bartell Drugs,Health,777.16,pharmacy
+14,2023-07-03,Target,Shopping,988.93,household supplies
+15,2023-10-22,Domino's,Food & Drink,37.25,team lunch
+16,2023-06-01,United Airlines,Travel,956.94,car rental
+17,2023-12-25,Subway,Food & Drink,59.31,latte and croissant
+18,2023-06-01,Lyft,Transport,20.31,ride to airport
+19,2023-01-12,McDonald's,Food & Drink,48.45,team lunch
+20,2023-12-04,Landlord,Rent,1522.74,monthly rent
+21,2023-07-22,Shake Shack,Food & Drink,33.93,takeout
+22,2023-05-21,Sweetgreen,Food & Drink,47.79,latte and croissant
+23,2023-01-05,Apartment Management,Rent,2511.52,monthly rent
+24,2023-10-17,REI,Shopping,526.24,clothing
+25,2023-12-18,CVS,Health,58.05,first-aid supplies
+26,2023-01-26,Google,Subscriptions,34.93,annual plan
+27,2023-11-07,Apple Store,Shopping,82.76,electronics
+28,2023-09-12,United Airlines,Travel,125.53,conference travel
+29,2023-05-27,Bartell Drugs,Health,443.20,vitamins
+30,2023-04-28,Walmart,Groceries,168.56,household items
+31,2023-11-07,Puget Sound Energy,Utilities,66.70,monthly bill
+32,2023-06-30,LinkedIn Learning,Education,726.42,course enrollment
+33,2023-04-23,Spotify,Entertainment,128.83,game purchase
+34,2023-11-22,Safeway,Groceries,107.51,snacks and beverages
+35,2023-04-08,Rite Aid,Health,763.34,first-aid supplies
+36,2023-11-14,Chipotle,Food & Drink,10.13,coffee and snack
+37,2023-05-09,Best Buy,Shopping,813.65,electronics
+38,2023-12-14,Apartment Management,Rent,3010.04,monthly rent
+39,2023-12-04,Costco,Groceries,263.07,weekly groceries
+40,2023-12-15,State Farm,Insurance,124.94,monthly premium
+41,2023-03-12,Sweetgreen,Food & Drink,17.33,coffee and snack
+42,2023-11-18,Walmart,Groceries,122.92,snacks and beverages
+43,2023-02-19,Apartment Management,Rent,3535.47,monthly rent
+44,2023-11-18,Apartment Management,Rent,1086.86,monthly rent
+45,2023-11-27,Best Buy,Shopping,922.32,office accessories
+46,2023-01-21,Subway,Food & Drink,36.15,breakfast bagel
+47,2023-06-08,Starbucks,Food & Drink,10.05,latte and croissant
+48,2023-08-14,Amtrak,Transport,58.81,commute
+49,2023-01-18,Trader Joe's,Groceries,237.51,weekly groceries
+50,2023-10-24,Red Cross,Gifts & Donations,87.13,holiday gift
+51,2023-07-06,Chipotle,Food & Drink,19.97,takeout
+52,2023-03-09,Walmart,Groceries,143.77,snacks and beverages
+53,2023-02-16,Lime,Transport,20.75,client visit
+54,2023-06-01,Sweetgreen,Food & Drink,33.98,client dinner
+55,2023-06-17,Shake Shack,Food & Drink,59.14,coffee and snack
+56,2023-08-01,Panera Bread,Food & Drink,56.99,team lunch
+57,2023-03-31,Best Buy,Shopping,334.84,electronics
+58,2023-04-13,Regal Cinemas,Entertainment,59.30,game purchase
+59,2023-03-09,AT&T,Utilities,215.10,electricity
+60,2023-10-04,Starbucks,Food & Drink,28.99,breakfast bagel
+61,2023-07-07,ATM Fee,Fees & Charges,29.21,late fee
+62,2023-09-29,Costco,Groceries,101.06,household items
+63,2023-09-14,McDonald's,Food & Drink,14.45,latte and croissant
+64,2023-05-20,PlayStation Store,Entertainment,276.57,movie night
+65,2023-03-26,Netflix,Entertainment,79.05,game purchase
+66,2023-05-12,Puget Sound Energy,Utilities,352.09,electricity
+67,2023-09-04,Lyft,Transport,16.55,ride to airport
+68,2023-06-01,AT&T,Utilities,365.19,electricity
+69,2023-06-23,Whole Foods,Groceries,86.16,fresh produce
+70,2023-02-28,Lyft,Transport,75.47,ride to airport
+71,2023-08-28,Bolt,Transport,63.34,downtown ride
+72,2023-02-08,Apple Store,Shopping,684.32,office accessories
+73,2023-03-14,edX,Education,167.94,course enrollment
+74,2023-04-26,PlayStation Store,Entertainment,96.42,concert tickets
+75,2023-12-13,Apartment Management,Rent,2522.01,monthly rent
+76,2023-12-12,Netflix,Entertainment,24.61,concert tickets
+77,2023-07-23,Chipotle,Food & Drink,38.83,latte and croissant
+78,2023-10-13,Walmart,Groceries,175.21,weekly groceries
+79,2023-07-07,Xbox,Entertainment,198.34,concert tickets
+80,2023-02-16,Landlord,Rent,3873.17,monthly rent
+81,2023-07-22,McDonald's,Food & Drink,59.03,coffee and snack
+82,2023-01-08,AT&T,Utilities,44.48,water & sewer
+83,2023-05-16,Local Vet,Pets,106.94,pet food
+84,2023-10-02,Trader Joe's,Groceries,128.48,snacks and beverages
+85,2023-03-05,CVS,Health,633.49,vitamins
+86,2023-08-21,Chipotle,Food & Drink,35.69,breakfast bagel
+87,2023-07-08,United Airlines,Travel,433.37,car rental
+88,2023-12-11,Rite Aid,Health,255.08,first-aid supplies
+89,2023-12-11,Chipotle,Food & Drink,22.03,breakfast bagel
+90,2023-05-15,Rite Aid,Health,652.42,pharmacy
+91,2023-10-27,Kaiser,Health,411.71,pharmacy
+92,2023-07-15,Whole Foods,Groceries,286.33,snacks and beverages
+93,2023-11-23,Allstate,Insurance,81.84,monthly premium
+94,2023-07-10,Panera Bread,Food & Drink,51.44,coffee and snack
+95,2023-02-25,Seattle Public Utilities,Utilities,338.99,monthly bill
+96,2023-12-12,Bartell Drugs,Health,113.53,first-aid supplies
+97,2023-04-30,Subway,Food & Drink,50.72,latte and croissant
+98,2023-08-30,Adobe,Subscriptions,36.62,monthly subscription
+99,2023-01-13,Whole Foods,Groceries,291.48,snacks and beverages
+100,2023-11-14,Apple Store,Shopping,241.66,household supplies

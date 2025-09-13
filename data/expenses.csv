@@ -1,0 +1,4 @@
+id,date,merchant,category,amount,notes
+1,2025-06-01,Starbucks,Food & Drink,6.25,latte and croissant
+2,2025-06-03,Uber,Transport,24.10,airport to hotel
+3,2025-07-10,Delta Air,Travel,415.00,SEA->SFO flight

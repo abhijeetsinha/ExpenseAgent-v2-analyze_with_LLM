@@ -1,0 +1,101 @@
+id,date,merchant,category,amount,notes
+1,2025-07-22,Pluralsight,Education,830.45,learning materials
+2,2025-06-26,Hyatt,Travel,819.64,hotel stay
+3,2025-03-16,Lowe's,Home,269.03,tools & supplies
+4,2025-05-29,Shake Shack,Food & Drink,17.95,client dinner
+5,2025-01-22,State Farm,Insurance,187.26,monthly premium
+6,2025-05-28,Marriott,Travel,846.68,ATL->SFO flight
+7,2025-02-10,Spotify,Entertainment,126.38,concert tickets
+8,2025-06-27,REI,Shopping,916.97,office accessories
+9,2025-08-15,Whole Foods,Groceries,81.36,fresh produce
+10,2025-12-02,Regal Cinemas,Entertainment,226.34,concert tickets
+11,2025-05-12,Walmart,Groceries,275.58,fresh produce
+12,2025-09-03,REI,Shopping,757.19,electronics
+13,2025-04-20,Seattle Public Utilities,Utilities,290.39,monthly bill
+14,2025-04-14,Bank Fee,Fees & Charges,4.03,late fee
+15,2025-10-03,Red Cross,Gifts & Donations,290.62,charitable donation
+16,2025-05-19,Lime,Transport,57.49,commute
+17,2025-10-15,Apple Store,Shopping,100.03,clothing
+18,2025-12-23,Google,Subscriptions,8.33,annual plan
+19,2025-05-20,Netflix,Entertainment,171.17,concert tickets
+20,2025-03-12,Apple Store,Shopping,261.91,electronics
+21,2025-02-25,IKEA,Shopping,82.30,clothing
+22,2025-11-12,Safeway,Groceries,171.53,weekly groceries
+23,2025-10-28,Bank Fee,Fees & Charges,49.32,atm fee
+24,2025-05-03,Shake Shack,Food & Drink,14.90,team lunch
+25,2025-05-05,REI,Shopping,649.42,clothing
+26,2025-01-26,Costco,Groceries,145.59,household items
+27,2025-12-09,Walmart,Groceries,57.24,snacks and beverages
+28,2025-09-29,Shake Shack,Food & Drink,34.09,takeout
+29,2025-04-26,Home Depot,Home,608.60,home improvement
+30,2025-11-23,PlayStation Store,Entertainment,166.98,game purchase
+31,2025-04-30,Adobe,Subscriptions,24.11,monthly subscription
+32,2025-01-27,Alaska Airlines,Travel,87.05,baggage fee
+33,2025-02-21,Landlord,Rent,1722.00,monthly rent
+34,2025-07-31,Starbucks,Food & Drink,29.55,takeout
+35,2025-06-19,Amazon,Shopping,252.29,electronics
+36,2025-08-30,Whole Foods,Groceries,171.13,weekly groceries
+37,2025-02-21,Panera Bread,Food & Drink,17.88,takeout
+38,2025-12-15,Apartment Management,Rent,1710.71,monthly rent
+39,2025-03-12,Ace Hardware,Home,188.52,home improvement
+40,2025-01-03,United Airlines,Travel,769.89,baggage fee
+41,2025-10-09,Comcast,Utilities,389.75,water & sewer
+42,2025-03-22,Best Buy,Shopping,699.35,clothing
+43,2025-07-28,Shake Shack,Food & Drink,15.11,latte and croissant
+44,2025-12-01,Spotify,Entertainment,95.82,streaming subscription
+45,2025-09-01,Microsoft 365,Subscriptions,28.99,annual plan
+46,2025-09-02,AT&T,Utilities,173.72,electricity
+47,2025-11-30,Bolt,Transport,16.86,client visit
+48,2025-04-13,Microsoft 365,Subscriptions,27.71,monthly subscription
+49,2025-05-28,Shake Shack,Food & Drink,42.05,latte and croissant
+50,2025-06-14,Chipotle,Food & Drink,15.35,latte and croissant
+51,2025-05-27,IKEA,Shopping,224.85,household supplies
+52,2025-11-27,edX,Education,317.12,course enrollment
+53,2025-01-31,Lyft,Transport,115.75,ride to airport
+54,2025-02-15,Apple Store,Shopping,915.30,household supplies
+55,2025-11-30,Whole Foods,Groceries,174.58,snacks and beverages
+56,2025-10-21,Walmart,Groceries,201.64,snacks and beverages
+57,2025-04-29,Airbnb,Travel,585.90,baggage fee
+58,2025-10-01,Best Buy,Shopping,915.19,office accessories
+59,2025-01-20,Delta Air,Travel,696.90,hotel stay
+60,2025-03-31,Amazon,Shopping,268.17,clothing
+61,2025-08-02,Southwest,Travel,429.35,baggage fee
+62,2025-04-01,AT&T,Utilities,214.74,electricity
+63,2025-01-19,Amtrak,Transport,116.25,client visit
+64,2025-07-23,PlayStation Store,Entertainment,240.13,streaming subscription
+65,2025-09-11,Sweetgreen,Food & Drink,15.12,latte and croissant
+66,2025-04-06,Petco,Pets,107.17,pet food
+67,2025-05-29,Geico,Insurance,236.37,policy renewal
+68,2025-01-20,Domino's,Food & Drink,8.74,team lunch
+69,2025-01-05,Sweetgreen,Food & Drink,25.53,latte and croissant
+70,2025-06-02,Bartell Drugs,Health,731.07,first-aid supplies
+71,2025-10-18,Shake Shack,Food & Drink,5.65,latte and croissant
+72,2025-11-05,IKEA,Shopping,977.70,electronics
+73,2025-02-24,Puget Sound Energy,Utilities,328.28,internet service
+74,2025-06-21,Chipotle,Food & Drink,33.84,team lunch
+75,2025-05-26,Lime,Transport,36.27,office to home
+76,2025-08-21,Hyatt,Travel,140.87,baggage fee
+77,2025-11-25,Spotify,Entertainment,297.15,streaming subscription
+78,2025-10-06,Alaska Airlines,Travel,801.80,SFO->AUS flight
+79,2025-09-26,Walmart,Groceries,153.28,weekly groceries
+80,2025-09-10,Amazon,Shopping,504.86,clothing
+81,2025-03-10,Rite Aid,Health,457.03,pharmacy
+82,2025-09-16,GoFundMe,Gifts & Donations,122.59,holiday gift
+83,2025-08-28,Local Charity,Gifts & Donations,142.84,charitable donation
+84,2025-05-20,Best Buy,Shopping,900.32,electronics
+85,2025-04-09,Yellow Cab,Transport,9.75,commute
+86,2025-02-27,Apartment Management,Rent,3786.62,monthly rent
+87,2025-06-19,Lyft,Transport,71.47,client visit
+88,2025-03-25,Bartell Drugs,Health,272.07,co-pay
+89,2025-08-23,REI,Shopping,726.92,office accessories
+90,2025-11-28,Shake Shack,Food & Drink,17.77,coffee and snack
+91,2025-05-12,Walmart,Groceries,287.36,household items
+92,2025-04-06,State Farm,Insurance,38.00,policy renewal
+93,2025-01-08,Apple Store,Shopping,495.70,office accessories
+94,2025-06-22,Puget Sound Energy,Utilities,189.78,water & sewer
+95,2025-06-01,Panera Bread,Food & Drink,48.89,takeout
+96,2025-10-18,Panera Bread,Food & Drink,13.48,takeout
+97,2025-12-12,Target,Shopping,742.26,office accessories
+98,2025-04-09,Safeway,Groceries,21.45,snacks and beverages
+99,2025-03-31,AMC Theatres,Entertainment,37.85,movie night
+100,2025-11-09,Amtrak,Transport,70.38,downtown ride

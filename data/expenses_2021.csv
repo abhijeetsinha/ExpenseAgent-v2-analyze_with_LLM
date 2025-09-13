@@ -1,0 +1,101 @@
+id,date,merchant,category,amount,notes
+1,2021-11-24,Microsoft 365,Subscriptions,12.99,monthly subscription
+2,2021-02-27,Google,Subscriptions,14.85,monthly subscription
+3,2021-01-13,Service Charge,Fees & Charges,43.94,atm fee
+4,2021-05-21,Amtrak,Transport,52.31,client visit
+5,2021-05-06,Subway,Food & Drink,18.56,latte and croissant
+6,2021-04-25,Seattle Public Utilities,Utilities,188.52,water & sewer
+7,2021-03-13,Whole Foods,Groceries,162.67,weekly groceries
+8,2021-02-22,Amazon,Shopping,161.31,household supplies
+9,2021-12-13,Apple Store,Shopping,600.44,clothing
+10,2021-10-07,Costco,Groceries,168.15,weekly groceries
+11,2021-02-14,Amazon,Shopping,684.89,office accessories
+12,2021-10-30,Best Buy,Shopping,120.44,clothing
+13,2021-08-05,Starbucks,Food & Drink,57.46,takeout
+14,2021-01-17,United Airlines,Travel,633.83,ATL->ORD flight
+15,2021-01-16,Notion,Subscriptions,31.23,monthly subscription
+16,2021-02-17,Whole Foods,Groceries,171.03,weekly groceries
+17,2021-04-22,Apartment Management,Rent,1058.43,monthly rent
+18,2021-04-30,edX,Education,254.66,course enrollment
+19,2021-09-16,Coursera,Education,103.94,certification exam
+20,2021-11-05,Notion,Subscriptions,38.76,monthly subscription
+21,2021-01-14,Bartell Drugs,Health,140.45,first-aid supplies
+22,2021-10-15,Progressive,Insurance,222.50,policy renewal
+23,2021-04-12,Local Vet,Pets,77.82,vet visit
+24,2021-11-29,Domino's,Food & Drink,8.52,coffee and snack
+25,2021-12-26,Landlord,Rent,2765.32,monthly rent
+26,2021-10-07,Starbucks,Food & Drink,17.59,coffee and snack
+27,2021-08-03,Coursera,Education,523.87,certification exam
+28,2021-04-23,Walgreens,Health,435.99,first-aid supplies
+29,2021-08-18,Amtrak,Transport,98.44,commute
+30,2021-10-29,Shake Shack,Food & Drink,24.49,breakfast bagel
+31,2021-05-23,PlayStation Store,Entertainment,23.82,movie night
+32,2021-01-04,McDonald's,Food & Drink,49.03,coffee and snack
+33,2021-03-23,Lyft,Transport,68.06,commute
+34,2021-12-24,Trader Joe's,Groceries,149.54,weekly groceries
+35,2021-08-05,Xbox,Entertainment,36.59,movie night
+36,2021-06-24,Progressive,Insurance,74.90,policy renewal
+37,2021-05-23,Regal Cinemas,Entertainment,271.51,streaming subscription
+38,2021-03-21,Costco,Groceries,94.26,household items
+39,2021-04-21,Airbnb,Travel,228.02,conference travel
+40,2021-06-22,Uber,Transport,72.87,downtown ride
+41,2021-02-22,McDonald's,Food & Drink,8.14,latte and croissant
+42,2021-02-17,Xbox,Entertainment,53.97,movie night
+43,2021-07-14,Coursera,Education,603.13,learning materials
+44,2021-02-19,Pluralsight,Education,137.49,learning materials
+45,2021-07-03,Lime,Transport,12.45,ride to airport
+46,2021-06-26,Walmart,Groceries,178.26,snacks and beverages
+47,2021-11-06,Bank Fee,Fees & Charges,33.82,atm fee
+48,2021-05-16,Amtrak,Transport,22.66,office to home
+49,2021-01-23,Netflix,Entertainment,10.72,movie night
+50,2021-08-24,Domino's,Food & Drink,32.82,team lunch
+51,2021-10-02,Bank Fee,Fees & Charges,44.08,atm fee
+52,2021-03-05,Airbnb,Travel,1008.81,conference travel
+53,2021-07-13,Landlord,Rent,3003.59,monthly rent
+54,2021-02-10,Bank Fee,Fees & Charges,47.01,service fee
+55,2021-10-10,Alaska Airlines,Travel,903.78,hotel stay
+56,2021-05-31,Southwest,Travel,875.25,hotel stay
+57,2021-11-18,Best Buy,Shopping,510.35,office accessories
+58,2021-11-13,GoFundMe,Gifts & Donations,55.23,birthday gift
+59,2021-07-05,Microsoft 365,Subscriptions,2.17,monthly subscription
+60,2021-10-23,Rite Aid,Health,137.65,first-aid supplies
+61,2021-04-09,Puget Sound Energy,Utilities,237.54,monthly bill
+62,2021-12-27,Subway,Food & Drink,35.01,client dinner
+63,2021-02-05,Landlord,Rent,2289.36,monthly rent
+64,2021-01-24,Delta Air,Travel,1083.76,hotel stay
+65,2021-12-05,REI,Shopping,111.77,clothing
+66,2021-04-27,Ace Hardware,Home,136.32,tools & supplies
+67,2021-05-29,Udemy,Education,883.79,course enrollment
+68,2021-02-10,Yellow Cab,Transport,95.63,client visit
+69,2021-04-30,Evernote,Subscriptions,40.92,annual plan
+70,2021-02-21,Chipotle,Food & Drink,26.04,coffee and snack
+71,2021-07-14,Udemy,Education,215.58,certification exam
+72,2021-05-23,Whole Foods,Groceries,82.42,fresh produce
+73,2021-08-21,Trader Joe's,Groceries,262.02,snacks and beverages
+74,2021-11-22,Walmart,Groceries,131.91,snacks and beverages
+75,2021-07-06,Bank Fee,Fees & Charges,43.97,atm fee
+76,2021-03-25,Yellow Cab,Transport,12.28,downtown ride
+77,2021-07-09,PlayStation Store,Entertainment,237.64,game purchase
+78,2021-07-01,Landlord,Rent,2155.59,monthly rent
+79,2021-04-18,Bolt,Transport,56.84,downtown ride
+80,2021-12-10,Service Charge,Fees & Charges,34.66,late fee
+81,2021-05-17,Target,Shopping,370.58,electronics
+82,2021-12-26,State Farm,Insurance,198.25,monthly premium
+83,2021-12-16,Best Buy,Shopping,512.05,clothing
+84,2021-11-28,Hilton,Travel,687.57,hotel stay
+85,2021-02-06,Costco,Groceries,209.65,fresh produce
+86,2021-11-08,Apartment Management,Rent,2218.23,monthly rent
+87,2021-11-22,Southwest,Travel,544.37,car rental
+88,2021-03-29,Apartment Management,Rent,2394.96,monthly rent
+89,2021-10-01,Bartell Drugs,Health,383.82,co-pay
+90,2021-05-06,Rite Aid,Health,417.21,vitamins
+91,2021-03-25,Domino's,Food & Drink,42.00,team lunch
+92,2021-08-25,Adobe,Subscriptions,3.17,monthly subscription
+93,2021-07-14,Ace Hardware,Home,682.04,tools & supplies
+94,2021-05-19,PlayStation Store,Entertainment,176.10,game purchase
+95,2021-11-24,Spotify,Entertainment,51.09,movie night
+96,2021-12-19,GoFundMe,Gifts & Donations,391.43,charitable donation
+97,2021-10-13,Bolt,Transport,66.01,ride to airport
+98,2021-04-23,Comcast,Utilities,198.89,water & sewer
+99,2021-12-17,Bartell Drugs,Health,480.41,first-aid supplies
+100,2021-06-16,Apartment Management,Rent,3491.71,monthly rent

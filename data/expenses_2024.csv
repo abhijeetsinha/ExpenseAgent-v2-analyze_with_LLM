@@ -1,0 +1,101 @@
+id,date,merchant,category,amount,notes
+1,2024-06-07,Walmart,Groceries,118.79,household items
+2,2024-08-28,Bolt,Transport,17.59,office to home
+3,2024-04-09,Starbucks,Food & Drink,26.47,breakfast bagel
+4,2024-07-07,Shake Shack,Food & Drink,58.96,client dinner
+5,2024-12-13,Best Buy,Shopping,790.63,office accessories
+6,2024-10-19,Bolt,Transport,78.36,downtown ride
+7,2024-08-13,Best Buy,Shopping,142.08,office accessories
+8,2024-08-24,AT&T,Utilities,337.24,water & sewer
+9,2024-05-24,Lowe's,Home,510.91,tools & supplies
+10,2024-07-14,Sweetgreen,Food & Drink,7.03,team lunch
+11,2024-09-14,Domino's,Food & Drink,53.72,client dinner
+12,2024-09-27,Service Charge,Fees & Charges,20.51,late fee
+13,2024-08-02,Netflix,Entertainment,227.96,streaming subscription
+14,2024-03-23,Delta Air,Travel,1045.67,conference travel
+15,2024-04-12,Marriott,Travel,552.49,baggage fee
+16,2024-11-05,Apple Store,Shopping,345.65,household supplies
+17,2024-03-11,Regal Cinemas,Entertainment,115.27,concert tickets
+18,2024-05-08,Evernote,Subscriptions,22.38,annual plan
+19,2024-01-27,Landlord,Rent,2636.42,monthly rent
+20,2024-11-24,McDonald's,Food & Drink,41.35,client dinner
+21,2024-09-03,PlayStation Store,Entertainment,132.43,game purchase
+22,2024-07-09,Safeway,Groceries,223.51,snacks and beverages
+23,2024-10-10,Apartment Management,Rent,1823.67,monthly rent
+24,2024-02-22,Shake Shack,Food & Drink,24.98,takeout
+25,2024-12-30,CVS,Health,122.80,first-aid supplies
+26,2024-09-21,Chipotle,Food & Drink,17.98,takeout
+27,2024-03-04,Costco,Groceries,285.85,weekly groceries
+28,2024-05-25,Apartment Management,Rent,3846.47,monthly rent
+29,2024-02-12,Netflix,Entertainment,175.59,concert tickets
+30,2024-03-23,Trader Joe's,Groceries,89.89,weekly groceries
+31,2024-05-19,Subway,Food & Drink,32.45,breakfast bagel
+32,2024-08-18,Bank Fee,Fees & Charges,13.83,atm fee
+33,2024-09-19,Target,Shopping,996.40,office accessories
+34,2024-03-16,Apple Store,Shopping,208.18,household supplies
+35,2024-08-11,Pluralsight,Education,189.20,learning materials
+36,2024-02-16,Netflix,Entertainment,244.67,concert tickets
+37,2024-04-23,CVS,Health,444.50,vitamins
+38,2024-08-18,Red Cross,Gifts & Donations,358.79,holiday gift
+39,2024-06-27,Rite Aid,Health,411.92,pharmacy
+40,2024-01-14,Home Depot,Home,200.84,home improvement
+41,2024-07-31,McDonald's,Food & Drink,30.71,latte and croissant
+42,2024-01-28,Chipotle,Food & Drink,8.62,breakfast bagel
+43,2024-07-21,Local Vet,Pets,98.34,vet visit
+44,2024-09-14,IKEA,Shopping,83.01,office accessories
+45,2024-07-10,Kaiser,Health,378.01,vitamins
+46,2024-04-30,Subway,Food & Drink,47.23,team lunch
+47,2024-07-16,Netflix,Entertainment,250.77,streaming subscription
+48,2024-02-11,United Airlines,Travel,421.06,hotel stay
+49,2024-07-10,Walmart,Groceries,270.58,weekly groceries
+50,2024-04-24,Bolt,Transport,115.11,office to home
+51,2024-01-15,Panera Bread,Food & Drink,38.79,coffee and snack
+52,2024-06-12,AT&T,Utilities,248.97,internet service
+53,2024-02-20,Lime,Transport,88.71,downtown ride
+54,2024-12-31,Walmart,Groceries,31.53,weekly groceries
+55,2024-11-28,Panera Bread,Food & Drink,40.81,latte and croissant
+56,2024-06-20,Safeway,Groceries,159.45,snacks and beverages
+57,2024-03-15,Rite Aid,Health,391.53,first-aid supplies
+58,2024-03-11,Alaska Airlines,Travel,841.91,hotel stay
+59,2024-01-20,Regal Cinemas,Entertainment,143.62,concert tickets
+60,2024-05-26,Apartment Management,Rent,3584.46,monthly rent
+61,2024-08-29,Best Buy,Shopping,975.62,household supplies
+62,2024-12-22,IKEA,Shopping,566.03,office accessories
+63,2024-03-12,Uber,Transport,37.96,commute
+64,2024-12-27,Starbucks,Food & Drink,20.96,breakfast bagel
+65,2024-08-28,Pluralsight,Education,263.30,course enrollment
+66,2024-08-17,Notion,Subscriptions,36.61,monthly subscription
+67,2024-11-11,Apple Store,Shopping,996.01,clothing
+68,2024-01-03,AMC Theatres,Entertainment,153.23,movie night
+69,2024-02-10,Allstate,Insurance,291.01,monthly premium
+70,2024-01-10,Landlord,Rent,1151.62,monthly rent
+71,2024-05-11,Apartment Management,Rent,1857.25,monthly rent
+72,2024-04-20,Google,Subscriptions,8.43,annual plan
+73,2024-03-17,Apple Store,Shopping,372.28,clothing
+74,2024-10-07,Domino's,Food & Drink,24.94,client dinner
+75,2024-11-07,Sweetgreen,Food & Drink,47.04,client dinner
+76,2024-09-27,Notion,Subscriptions,34.66,monthly subscription
+77,2024-08-04,Chipotle,Food & Drink,26.66,client dinner
+78,2024-02-26,Verizon,Utilities,309.34,internet service
+79,2024-05-27,Apartment Management,Rent,2500.23,monthly rent
+80,2024-05-01,McDonald's,Food & Drink,49.22,latte and croissant
+81,2024-06-03,Xbox,Entertainment,268.79,streaming subscription
+82,2024-03-03,Marriott,Travel,236.88,car rental
+83,2024-01-25,Best Buy,Shopping,597.79,clothing
+84,2024-05-02,Best Buy,Shopping,480.14,electronics
+85,2024-08-02,Safeway,Groceries,294.37,snacks and beverages
+86,2024-11-23,REI,Shopping,873.38,electronics
+87,2024-11-14,Apartment Management,Rent,3901.21,monthly rent
+88,2024-08-22,IKEA,Shopping,485.64,clothing
+89,2024-02-02,Domino's,Food & Drink,6.74,takeout
+90,2024-02-26,Starbucks,Food & Drink,29.26,breakfast bagel
+91,2024-09-12,Domino's,Food & Drink,27.57,latte and croissant
+92,2024-11-01,Service Charge,Fees & Charges,36.64,late fee
+93,2024-10-01,Domino's,Food & Drink,35.85,takeout
+94,2024-01-09,Regal Cinemas,Entertainment,99.62,streaming subscription
+95,2024-11-19,Xbox,Entertainment,107.96,concert tickets
+96,2024-09-20,Rite Aid,Health,491.96,co-pay
+97,2024-10-21,State Farm,Insurance,180.68,monthly premium
+98,2024-05-03,State Farm,Insurance,238.22,monthly premium
+99,2024-03-14,Apple Store,Shopping,323.87,office accessories
+100,2024-05-29,Verizon,Utilities,136.48,water & sewer

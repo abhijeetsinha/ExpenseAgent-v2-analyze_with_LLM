@@ -1,0 +1,101 @@
+id,date,merchant,category,amount,notes
+1,2022-03-23,PetSmart,Pets,48.72,pet food
+2,2022-09-01,REI,Shopping,49.86,electronics
+3,2022-08-19,Progressive,Insurance,256.59,monthly premium
+4,2022-05-13,Amtrak,Transport,82.98,downtown ride
+5,2022-05-07,Allstate,Insurance,218.86,policy renewal
+6,2022-11-23,Lime,Transport,115.94,ride to airport
+7,2022-05-22,Target,Shopping,965.07,electronics
+8,2022-09-24,Apartment Management,Rent,2727.39,monthly rent
+9,2022-09-06,Whole Foods,Groceries,41.28,fresh produce
+10,2022-11-17,Panera Bread,Food & Drink,51.77,latte and croissant
+11,2022-05-03,Notion,Subscriptions,39.57,annual plan
+12,2022-05-21,Verizon,Utilities,55.51,electricity
+13,2022-08-14,Shake Shack,Food & Drink,50.23,coffee and snack
+14,2022-02-09,AMC Theatres,Entertainment,193.59,game purchase
+15,2022-05-27,Apple Store,Shopping,184.38,office accessories
+16,2022-05-01,Apartment Management,Rent,2394.62,monthly rent
+17,2022-05-20,Southwest,Travel,1005.34,ORD->PHX flight
+18,2022-06-21,Amtrak,Transport,71.82,client visit
+19,2022-06-13,Costco,Groceries,258.27,fresh produce
+20,2022-10-04,AMC Theatres,Entertainment,240.97,concert tickets
+21,2022-02-11,Hilton,Travel,689.16,car rental
+22,2022-03-12,Geico,Insurance,95.17,policy renewal
+23,2022-03-19,Spotify,Entertainment,209.66,game purchase
+24,2022-04-29,Netflix,Entertainment,35.17,streaming subscription
+25,2022-07-16,Whole Foods,Groceries,105.74,snacks and beverages
+26,2022-12-22,Xbox,Entertainment,108.38,concert tickets
+27,2022-03-20,Costco,Groceries,95.86,snacks and beverages
+28,2022-12-28,Bolt,Transport,29.57,ride to airport
+29,2022-04-20,REI,Shopping,193.30,household supplies
+30,2022-02-02,Best Buy,Shopping,727.34,office accessories
+31,2022-08-01,Home Depot,Home,247.55,home improvement
+32,2022-07-28,Uber,Transport,87.30,commute
+33,2022-06-19,Delta Air,Travel,686.36,hotel stay
+34,2022-10-05,Kaiser,Health,91.04,pharmacy
+35,2022-08-27,Apartment Management,Rent,2436.14,monthly rent
+36,2022-08-01,Uber,Transport,36.28,client visit
+37,2022-02-01,Chipotle,Food & Drink,27.04,coffee and snack
+38,2022-04-16,Landlord,Rent,1455.18,monthly rent
+39,2022-08-04,Domino's,Food & Drink,11.51,breakfast bagel
+40,2022-07-19,Landlord,Rent,3327.08,monthly rent
+41,2022-10-27,Regal Cinemas,Entertainment,94.83,game purchase
+42,2022-12-23,Delta Air,Travel,751.08,JFK->ATL flight
+43,2022-01-11,Alaska Airlines,Travel,230.62,hotel stay
+44,2022-10-22,AT&T,Utilities,30.99,water & sewer
+45,2022-07-14,Apple Store,Shopping,298.35,household supplies
+46,2022-09-02,Hilton,Travel,858.44,baggage fee
+47,2022-01-04,Domino's,Food & Drink,55.82,takeout
+48,2022-06-30,Landlord,Rent,2275.42,monthly rent
+49,2022-06-02,Rite Aid,Health,663.04,pharmacy
+50,2022-07-19,Panera Bread,Food & Drink,37.73,latte and croissant
+51,2022-08-03,ATM Fee,Fees & Charges,7.09,late fee
+52,2022-10-03,Hyatt,Travel,1134.08,car rental
+53,2022-10-07,Puget Sound Energy,Utilities,59.76,monthly bill
+54,2022-11-05,UNICEF,Gifts & Donations,305.82,charitable donation
+55,2022-04-23,Starbucks,Food & Drink,59.98,takeout
+56,2022-09-07,Notion,Subscriptions,3.93,monthly subscription
+57,2022-04-23,PlayStation Store,Entertainment,137.13,concert tickets
+58,2022-05-20,Lime,Transport,56.82,client visit
+59,2022-08-12,Allstate,Insurance,123.95,policy renewal
+60,2022-09-06,Alaska Airlines,Travel,1036.39,conference travel
+61,2022-01-15,Costco,Groceries,100.70,household items
+62,2022-07-19,Notion,Subscriptions,3.76,monthly subscription
+63,2022-06-22,Marriott,Travel,183.31,baggage fee
+64,2022-12-09,Coursera,Education,664.51,learning materials
+65,2022-12-14,Netflix,Entertainment,62.77,concert tickets
+66,2022-07-27,Kaiser,Health,504.07,pharmacy
+67,2022-03-26,Lime,Transport,22.67,office to home
+68,2022-08-28,PlayStation Store,Entertainment,149.54,movie night
+69,2022-03-07,Ace Hardware,Home,642.46,tools & supplies
+70,2022-11-15,Delta Air,Travel,685.09,JFK->SFO flight
+71,2022-10-01,Netflix,Entertainment,197.13,streaming subscription
+72,2022-01-14,PlayStation Store,Entertainment,93.22,concert tickets
+73,2022-07-21,Costco,Groceries,294.47,fresh produce
+74,2022-10-31,Spotify,Entertainment,120.01,streaming subscription
+75,2022-10-16,edX,Education,777.22,certification exam
+76,2022-12-06,Walmart,Groceries,94.81,weekly groceries
+77,2022-01-14,Hilton,Travel,1013.10,car rental
+78,2022-02-12,PetSmart,Pets,173.73,vet visit
+79,2022-11-26,Verizon,Utilities,153.00,water & sewer
+80,2022-08-08,AMC Theatres,Entertainment,261.92,streaming subscription
+81,2022-03-11,Landlord,Rent,3568.04,monthly rent
+82,2022-08-25,Sweetgreen,Food & Drink,43.79,breakfast bagel
+83,2022-04-04,Whole Foods,Groceries,158.69,weekly groceries
+84,2022-01-26,McDonald's,Food & Drink,52.83,breakfast bagel
+85,2022-05-14,Sweetgreen,Food & Drink,5.84,team lunch
+86,2022-07-14,Whole Foods,Groceries,40.95,snacks and beverages
+87,2022-06-17,Costco,Groceries,201.95,snacks and beverages
+88,2022-04-19,LinkedIn Learning,Education,392.41,certification exam
+89,2022-08-21,Kaiser,Health,699.18,pharmacy
+90,2022-06-17,Landlord,Rent,2893.48,monthly rent
+91,2022-06-22,Local Vet,Pets,22.62,pet food
+92,2022-07-14,REI,Shopping,873.85,clothing
+93,2022-05-23,Yellow Cab,Transport,109.18,ride to airport
+94,2022-08-04,Delta Air,Travel,387.37,conference travel
+95,2022-05-10,Spotify,Entertainment,163.10,streaming subscription
+96,2022-02-11,Uber,Transport,76.26,client visit
+97,2022-08-29,Landlord,Rent,2493.00,monthly rent
+98,2022-01-10,Bolt,Transport,36.45,office to home
+99,2022-10-04,Kaiser,Health,721.96,co-pay
+100,2022-01-27,McDonald's,Food & Drink,59.32,client dinner
